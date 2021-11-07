@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Typescript, Javascript, React, ExpressJS,Chainlink, Web3, crypto tools**
 
-- 📫 How to reach me **carlosdima97@gmail.com**
+
 
 <h2 align="left">🔌 Connect with me:</h2>
 <p align="left">
@@ -17,7 +17,9 @@
 <br>
 
 You can reach me on discord as <strong>Cdds#0864</strong> , and on 
-<a href = 'https://t.me/carlosdimatteo'> telegram </a> too 🔥
+<a href = 'https://t.me/carlosdimatteo'> telegram </a> too 🔥. 
+  
+and if you wanna go old school hit me up at **carlosdima97@gmail.com** 📫
 </p>
 
 <h2 align="left">  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  Languages and Tools:</h2>
