@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking to collaborate on **anything related with Web3 and Ethereum development**
 
-- 💬 Ask me about **Typescript, Javascript, React, ExpressJS,Chainlink, Web3, crypto tools**
+- 💬 Ask me about **Typescript, Javascript, React, ExpressJS, ethers, Chainlink, Web3 integrations and tools**
 
 
 
