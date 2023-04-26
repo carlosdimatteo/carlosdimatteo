@@ -2,7 +2,7 @@
 <h4 align="left"> I'm Carlos Di Matteo, thanks for stopping by 😁</h4>
 <h2>😎 About Me</h2>
 
-- 💻 I’m currently working as Full Stack Software Engineer at [Archimedes](https://archimedesfi.com/)
+- 💻 I’m currently working as Full Stack Software Engineer at [Archimedes Finance](https://archimedesfi.com/)
 
 - 🤝 I’m looking to collaborate on **anything related with Web3 and Ethereum development**
 
