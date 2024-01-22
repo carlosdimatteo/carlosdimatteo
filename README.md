@@ -4,13 +4,12 @@
 
 - 💻 I’m a Full Stack Software Engineer 
 
-- 🤝 I’m always open to hear about **engaging and challenging projects**
+- 🤝 I enjoy problem solving, constantly **embracing new challenges**
 
-- 💬 Ask me about **Software, Web3, Leadership, Remote workstyle**
+- 👥 Always open to collaborate on enticing development opportunities **need building hands?, ping me**
 
 
-
-<h2 align="left">🔌 Connect with me:</h2>
+<h2 align="left">🔌 Get in touch with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/carlosdimatteo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosdimatteo" height="30" width="40" /></a>
 <a href="https://twitter.com/carldimatteo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carldimatteo" height="30" width="40" /></a>
