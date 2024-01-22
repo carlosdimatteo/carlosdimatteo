@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👀</h1>
+ <h1 align="left">Hey 👀</h1>
 <h4 align="left"> I'm Carlos Di Matteo, thanks for stopping by 😁</h4>
 <h2>😎 About Me</h2>
 
@@ -6,7 +6,7 @@
 
 - 🤝 I’m always open to hear about **engaging and challenging projects**
 
-- 💬 Ask me about **Software, Web3, Leadership,Remote workstyle**
+- 💬 Ask me about **Software, Web3, Leadership, Remote workstyle**
 
 
 
