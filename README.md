@@ -6,7 +6,7 @@
 
 - 🤝 I’m always open to hear about **engaging and challenging projects**
 
-- 💬 Ask me about **Software, web3, Leadership, travelling and navigating the remote workstyle**
+- 💬 Ask me about **Software, Web3, Leadership,Remote workstyle**
 
 
 
