@@ -4,7 +4,7 @@
 
 - 💻 I’m a Full Stack Software Engineer 
 
-- 🤝 I’m always open to hear about **engaging or challenging projects**
+- 🤝 I’m always open to hear about **engaging and challenging projects**
 
 - 💬 Ask me about **Software, web3, Leadership, travelling and navigating the remote workstyle**
 
