@@ -2,7 +2,7 @@
 <h4 align="left"> I'm Carlos Di Matteo, thanks for stopping by 😁</h4>
 <h2>😎 About Me</h2>
 
-- 💻 I’m a Full Stack Software Engineer, currently working at [Collar Networks](collarprotocol.xyz)
+- 💻 I’m a Full Stack Software Engineer, currently working at [Collar Networks](https://collarprotocol.xyz)
 
 - 🔧 I enjoy problem solving, constantly **embracing new challenges**
 
