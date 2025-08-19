@@ -15,7 +15,7 @@
 <a href="https://twitter.com/carldimatteo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carldimatteo" height="30" width="40" /></a>
 <br>
 
-You can reach me on discord as <strong>Cdds#0864</strong> , and on 
+You can reach me on discord as <strong>carlosdimatteo</strong> , and on 
 <a href = 'https://t.me/carlosdimatteo'> telegram </a> too 🔥. 
   
 and if you wanna go old school hit me up at **carlosdima97@gmail.com** 📫
