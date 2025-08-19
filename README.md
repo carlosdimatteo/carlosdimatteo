@@ -6,7 +6,7 @@
 
 - 🔧 I enjoy problem solving, constantly **embracing new challenges**
 
-- 👥 Always open to collaborate on enticing development opportunities
+- 👥 Interested in engineering roles in the DeFi space
 
 
 <h2 align="left">🤝 Get in touch with me:</h2>
